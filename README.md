@@ -1,5 +1,5 @@
 # MovieRecommendationSystem
-This repository contains a codebase for a movie recommendation system witten in Python
+This repository contains the codebase for a movie recommendation system witten in Python
 
 You can get the dataset from Kaggle at https://www.kaggle.com/rounakbanik/the-movies-dataset
 
