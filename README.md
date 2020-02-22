@@ -8,3 +8,5 @@ attributes (contents) needed for the model. The ratings.csv file contains the us
 
 For more information about the methodology and results, please refer to RecommendationSystem.pdf and
 contentbased.pdf
+
+See more on https://www.kaggle.com/anacamargos11/a-content-based-movie-recommender-system
